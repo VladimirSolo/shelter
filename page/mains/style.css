@@ -291,21 +291,17 @@ color: #FAFAFA;
   background: #FDDCC4;
 }
 /* -------------------------------------------- */
-.page__help-shelter {
-}
+
 .shelter-help {
   background: #FFFFFF;
 }
 
-.shelter-help__container {
- 
-}
+
 .shelter-help__title {
   padding-top: 80px;
   text-align: center;
 }
-.title-block {
-}
+
 /* ----grid-------------------------- */
 /* .item1 {
   grid-area: item1;
@@ -361,8 +357,7 @@ align-items: center;
   margin-top: 55px;
 }
 
-.item-list {
-}
+
 .item-list__block {
   display: flex;
   flex-direction: column;
@@ -376,8 +371,7 @@ align-items: center;
   margin-top: 30px;
 }
 /* ---------------------------------------------- */
-.page__donation-shelter {
-}
+
 .shelter-donation {
   background: #F6F6F6;
 }
@@ -444,8 +438,7 @@ align-items: center;
 }
 
 /* --------------------------------------------- */
-.footer__contacts {
-}
+
 .contacts {
   background: radial-gradient(110.67% 538.64% at 5.73% 50%, #513D2F 0%, #1A1A1C 100%);
 }
@@ -454,8 +447,7 @@ align-items: center;
   padding-top: 40px;
 }
 
-.contacts__items {
-}
+
 .items-contacts {
   display: flex;
   flex-direction: column;
@@ -517,8 +509,7 @@ align-items: center;
   background: url("../../assets/icons/icon-marker.svg")  0 0 /22px no-repeat;
 }
 
-.items-contacts__images {
-}
+
 .items-contacts a {
   display: flex;
   padding-left: 20px;
